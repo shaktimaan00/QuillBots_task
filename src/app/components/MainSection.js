@@ -9,7 +9,7 @@ const MainSection = () => {
                 <div className='section1-left'>
                     {/* <div> */}
                         <Image src={"/hero-img.png"} className="section1-img" width={1000} height={500} alt="image"/>
-                        <div className="section1-absimg"><Image src={"/image2.svg"} className="insideimg" width={20} height={20}  /></div>
+                        <div className="section1-absimg"><Image src={"/image2.svg"} className="insideimg" width={20} height={20} alt="image" /></div>
                     {/* </div> */}
                     
                 </div>

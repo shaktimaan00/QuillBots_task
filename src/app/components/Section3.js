@@ -7,20 +7,20 @@ const Section3 = () => {
     <div className="section3-container">
         <div className="section3-left">
             <p className="section3-p1">Carpe Diem Pension, on Pulse blockchain, redefines retirement with a self-managed, inclusive, globally portable fund. Unique for its token burn mechanism, it ensures a sustainable 4.32% inflation payout. With $143.11k and 41.06% of CDP already burned, it serves 35 users globally.</p>
-            <p className="section3-p2">CarpeDiem Pension's Flexible, Blockchain-Enabled Future</p>
+            <p className="section3-p2">CarpeDiem Pension Flexible, Blockchain-Enabled Future</p>
             <p className="section3-p3">CarpeDiem Pension redefines retirement planning with a unique approach that deviates from traditional pension funds. With no minimum age for retirement, it offers flexibility and freedom, ensuring all genders receive equal treatment. CarpeDiem Pension ensures blockchain transparency, anonymity, and global accessibility, safeguarding pensions during international relocation. Easily transfer pensions to loved ones; share wallet access. Re-deposit payouts for increased future benefits. Importantly, CarpeDiem Pension prioritizes deposit security by avoiding utilizing client funds for internal investments. To become a part of this forward-thinking pension scheme, one simply needs to install and configure a blockchain wallet.</p>
             <Image src={"/image5.svg"} className="section3-img5" height={10} width={10} alt="image5" />
-            <h1 className="section3-p4">CarpeDiem Pension's Challenges: Enhancing Security Against Reentrancy, Front-Running, and Infinite Minting</h1>
-            <p className="section3-p5">CarpeDiem Pension confronts critical security challenges, including the risks of reentrancy and front-running exploits.Malicious actors may exploit contract vulnerabilities, withdrawing excess funds or manipulating transaction timing for unfair advantages. System faces infinite minting threats, risking economic stability with endless creation of CDP tokens or pension shares. Addressing these challenges is paramount to safeguarding the integrity and security of CarpeDiem Pension.</p>
+            <h1 className="section3-p4">CarpeDiem Pension Challenges: Enhancing Security Against Reentrancy, Front-Running, and Infinite Minting</h1>
+            <p className="section3-p5">CarpeDiem Pension confronts critical security challenges, including the risks of reentrancy and front-running exploits. Malicious actors may exploit contract vulnerabilities, withdrawing excess funds or manipulating transaction timing for unfair advantages. System faces infinite minting threats, risking economic stability with endless creation of CDP tokens or pension shares. Addressing these challenges is paramount to safeguarding the integrity and security of CarpeDiem Pension.</p>
             <Image src={"/image6.svg"} className="section3-img6" height={10} width={10} alt="image6" />
-            <h1 className="section3-p6">CarpeDiem Pension's Journey Through our Audit Process</h1>
+            <h1 className="section3-p6">CarpeDiem Pensions Journey Through our Audit Process</h1>
 
             <ol className="section3-olist1">
                 <li>
                     <h1>Information Gathering</h1>
                     <ol className="section3-olist2">
                         <li>Collected and reviewed all relevant documentation, including whitepaper, technical specifications, and design documents.</li>
-                        <li>Obtained a clear understanding of the CDP platform's functionality, economic model, and intended user interactions.</li>
+                        <li>Obtained a clear understanding of the CDP platforms functionality, economic model, and intended user interactions.</li>
                         <li>Discussed client concerns and specific areas of focus for the audit.</li>
                     </ol>
                 </li>
@@ -74,8 +74,8 @@ const Section3 = () => {
                     </ol>
                 </li>
             </ol>
-            <h1 className="section3-p7">QuillAudits' Strategic Approach to CDP Security Audits</h1>
-            <p className="section3-p5">Throughout the audit process, we unearthed a total of 33 issues, spanning from minor concerns to critical vulnerabilities. Among these, some of the critical issues identified were: Here's how we remediated them :</p>
+            <h1 className="section3-p7">QuillAudits Strategic Approach to CDP Security Audits</h1>
+            <p className="section3-p5">Throughout the audit process, we unearthed a total of 33 issues, spanning from minor concerns to critical vulnerabilities. Among these, some of the critical issues identified were: Heres how we remediated them :</p>
 
             <ol className="section3-olist4">
                 <li>
@@ -117,7 +117,7 @@ const Section3 = () => {
             </ol>
 
             <h1 className="section3-p4">Remediation & Impact:</h1>
-            <p className="section3-p5">All identified vulnerabilities were addressed by the CDP team, significantly enhancing the smart contract's security posture. Key improvements include</p>
+            <p className="section3-p5">All identified vulnerabilities were addressed by the CDP team, significantly enhancing the smart contracts security posture. Key improvements include</p>
 
             <ol className="section3-olist2">
                 <li>Implementation of reentrancy protection mechanisms.</li>
